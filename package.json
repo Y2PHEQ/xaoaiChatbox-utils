@@ -1,0 +1,29 @@
+{
+  "name": "xaoai-chatboxUtils",
+  "version": "0.0.10",
+  "description": "A NodeJS package to help interacting with Facebook Messenger API (xaoai-chatboxUtils)",
+  "main": "lib/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "node --trace-warnings test/index.js"
+  },
+  "keywords": [
+    "facebook",
+    "messenger",
+    "api",
+    "fca-unofficial",
+    "facebook.js"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/cors": "^x.x.x",
+    "@types/express": "^x.x.x",
+    "@xaoai/chatbox": "^x.x.x",
+    "ts-node": "^x.x.x",
+    "typescript": "^x.x.x"
+  },
+  "dependencies": {
+    "axios": "^x.x.x"
+  }
+}
