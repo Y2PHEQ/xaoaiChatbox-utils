@@ -19,7 +19,7 @@
   "devDependencies": {
     "@types/cors": "^x.x.x",
     "@types/express": "^x.x.x",
-    "@xaoai/chatbox": "^x.x.x",
+    "xaoai-chatbox": "^x.x.x",
     "ts-node": "^x.x.x",
     "typescript": "^x.x.x"
   },
