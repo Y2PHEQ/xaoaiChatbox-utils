@@ -1,6 +1,6 @@
 {
-  "name": "xaoai-chatboxUtils",
-  "version": "0.0.10",
+  "name": "xaoai-utils",
+  "version": "0.0.1",
   "description": "A NodeJS package to help interacting with Facebook Messenger API (xaoai-chatboxUtils)",
   "main": "lib/index.js",
   "type": "module",
