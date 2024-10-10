@@ -1,6 +1,6 @@
 {
   "name": "xaoai-utils",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A NodeJS package to help interacting with Facebook Messenger API (xaoai-utils)",
   "main": "lib/index.js",
   "type": "module",
