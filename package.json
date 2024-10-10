@@ -12,8 +12,7 @@
     "facebook",
     "messenger",
     "api",
-    "fca-unofficial",
-    "facebook.js"
+    "xaoaiChatbot"
   ],
   "license": "MIT",
   "devDependencies": {
