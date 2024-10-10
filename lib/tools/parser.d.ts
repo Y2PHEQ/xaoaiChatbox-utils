@@ -1,4 +1,4 @@
-import { IFCAU_API } from "@xaoai/chatbox";
+import { IFCAU_API } from "xaoai-chatbox";
 import { AttachmentObject } from "../index.js";
 import { TextMessage, TextMessageExtended, ReactionMessage, ReactionMessageExtended, UnsendMessage, UnsendMessageExtended, EventMessage } from "../index.js";
 export declare function isAttachmentObject(obj: unknown): obj is AttachmentObject;

@@ -1,4 +1,4 @@
-import { AppstateData } from "@xaoai/chatbox";
+import { AppstateData } from "xaoai-chatbox";
 /**
  * base64 encoded utf8 string
  *

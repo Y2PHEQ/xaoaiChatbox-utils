@@ -1,4 +1,4 @@
-import { IFCAU_API } from "@xaoai/chatbox";
+import { IFCAU_API } from "xaoai-chatbox";
 import { CommandsProps, TextMessage } from "../index.js";
 type CommandParserReturnTypes = {
     status: true;
